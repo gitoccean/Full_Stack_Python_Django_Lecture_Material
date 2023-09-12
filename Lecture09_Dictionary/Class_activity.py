@@ -43,7 +43,7 @@ while True:
             else:
                 print(f'{name} does not exist in the address book')
     elif choice == 5:
-        name = str(input('Enter the contact name to delete its info').lower())
+        name = str(input('Enter the contact name to update its info').lower())
         if not address_book:
             print('Address book is empty')
         else:
