@@ -1,3 +1,8 @@
+#  must show  items , quantity , price for admin
+# item is  primary key that is related to its quantity and its price.
+# must show which items are out of order as error handling
+
+
 inventory = []
 
 while True:
