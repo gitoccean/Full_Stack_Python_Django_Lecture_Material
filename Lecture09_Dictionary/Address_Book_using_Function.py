@@ -13,7 +13,7 @@ def display_contacts():
     if not address_book:
         print('Address book is empty')
     else:
-        print('{:_^10}'.format('All Contacts'))
+        print('***** All Contacts *****'))
         for index, name in enumerate(address_book.keys(), start=1):
             print(f'{index}: {name}')
 
