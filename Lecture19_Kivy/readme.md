@@ -23,3 +23,7 @@ On Pycharm’s main menu, click "File"-> "Import" (or Import Settings)
 Select this file and PyCharm will present a dialog with filetypes ticked. Click OK.
 
 You are done. Restart PyCharm.
+
+margin and padding is in standard of "dp".
+
+while font-size is in standard of "sp".
