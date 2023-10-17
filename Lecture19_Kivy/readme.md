@@ -5,9 +5,13 @@ for automatically pickup about import somethings, its all depends upon compiler 
 pip install kivy       on terminal
 
 further finding kivy related repository i will recommend
+
 https://github.com/Zen-Code
+
 https://github.com/Zen-Code/kivybits
+
 https://github.com/Zen-CODE/kivybits/tree/master/IDE
+
 here you find
 
 KV Lang File Type Support
