@@ -27,3 +27,7 @@ You are done. Restart PyCharm.
 margin and padding is in standard of "dp".
 
 while font-size is in standard of "sp".
+
+I have a Tic-tac-toe game and develop by using python and kivi. it is uploaded at my github, the link is below.
+
+https://github.com/gitoccean/Python_Kivy_Tic-Tac-Toe_Game/tree/main
