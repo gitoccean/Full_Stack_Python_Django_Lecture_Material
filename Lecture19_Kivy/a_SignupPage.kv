@@ -1,0 +1,28 @@
+BoxLayout:
+   orientation: 'vertical'
+   padding: 10
+   spacing: 10
+
+
+   TextInput:
+      id: em
+      size_hint_y: None
+      height: 40
+      background_color: 'white'
+      font_size: 16
+      hint_text: "Enter Email"
+
+   TextInput:
+      id: ps
+      size_hint_y: None
+      height: 40
+      password: True
+      background_color: 'white'
+      font_size: 16
+      hint_text: "Enter Password"
+
+   Button:
+      text: 'Signup'
+      size_hint_y: None
+      height: 40
+      on_press: app.signup(em,ps)
