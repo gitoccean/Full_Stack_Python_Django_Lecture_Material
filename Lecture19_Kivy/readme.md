@@ -37,3 +37,5 @@ https://github.com/gitoccean/Python_Kivy_Tic-Tac-Toe_Game/tree/main
 I have a calculator app and develop by using python and kivi. it is uploaded at my github, the link is below.
 
 https://github.com/gitoccean/Python_Kivy_Scientific_Calculator_App/tree/main#python_kivy_scientific_calculator_app
+
+https://github.com/gitoccean/Python_Kivy_Mobile_App_Firebase_Login_Signup_Home
