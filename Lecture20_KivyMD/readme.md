@@ -9,6 +9,7 @@ How to use Google Colab to package KivyMD applications with buildozer
 https://dev.to/ngonidzashe/how-to-use-google-colab-to-package-kivymd-applications-with-buildozer-46bl
 
 here you colab your project
+This is a google colab as a virtual machine inwhich you can build APK
 
 https://colab.research.google.com/
 
