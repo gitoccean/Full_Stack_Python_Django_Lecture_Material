@@ -1,4 +1,4 @@
-![image](https://github.com/gitoccean/Full_Stack_Python_Django_Lecture_Material/assets/136047676/5bd1d99f-910b-46f1-981c-6251e1e469d4)#How to use its components and whats are the components
+#How to use its components and whats are the components
 
 https://kivymd.readthedocs.io/en/1.1.1/components/
 
@@ -11,3 +11,10 @@ https://dev.to/ngonidzashe/how-to-use-google-colab-to-package-kivymd-application
 here you colab your project
 
 https://colab.research.google.com/
+
+
+
+
+
+
+![image](https://github.com/gitoccean/Full_Stack_Python_Django_Lecture_Material/assets/136047676/5bd1d99f-910b-46f1-981c-6251e1e469d4)
