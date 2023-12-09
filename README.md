@@ -32,3 +32,7 @@ get out numbers by random
 **pip install random**
 
 **Must remember Bydefault Djano Views for PasswordReset/ForgottenPassword**
+PasswordResetView  -->  input  -->  email  -->  button  -->  reset
+PasswordResetDoneView  -->  Text  -->  Email Sended  -->  User  --> Email
+PasswordResetConfirmView  -->  Input1 -->  New password  -->  input2  -->  Confirm Password  -->  reset
+PasswordResetCompleteView  -->  Text  -->  Password Reset Completed!
