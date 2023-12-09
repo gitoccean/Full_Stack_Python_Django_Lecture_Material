@@ -30,3 +30,5 @@ for getting fake data as mockapi
 get out numbers by random
 
 **pip install random**
+
+**Must remember Bydefault Djano Views for PasswordReset/ForgottenPassword**
