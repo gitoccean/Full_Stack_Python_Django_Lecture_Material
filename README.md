@@ -36,3 +36,6 @@ PasswordResetView  -->  input  -->  email  -->  button  -->  reset   <br>
 PasswordResetDoneView  -->  Text  -->  Email Sended  -->  User  --> Email   <br>
 PasswordResetConfirmView  -->  Input1 -->  New password  -->  input2  -->  Confirm Password  -->  reset    <br>
 PasswordResetCompleteView  -->  Text  -->  Password Reset Completed!   <br>
+
+Sana Rasheed
+https://www.youtube.com/playlist?list=PL1Xmyl4aKTRgRqNdjcI1C7A4X_PRKZHj6
